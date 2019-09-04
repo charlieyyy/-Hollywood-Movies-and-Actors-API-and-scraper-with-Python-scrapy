@@ -34,4 +34,4 @@ Distributed under the MIT License.
 
 [Mingli Yang](https://www.linkedin.com/in/myang46)
 
-Project Link: [https://github.com/charlieyyy/chess](https://github.com/charlieyyy/chess)
+Project Link: [https://github.com/charlieyyy/-wiki_hollywood_crawler](https://github.com/charlieyyy/-wiki_hollywood_crawler)
