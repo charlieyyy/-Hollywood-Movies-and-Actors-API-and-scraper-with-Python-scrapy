@@ -1,4 +1,4 @@
-# wiki_hollywood_crawler
+# wiki-hollywood-crawler
 > This project uses python [scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html) framework to crawl data of hollywood actors and their movies. The scraped data then were converted in predefined graph structure, which is the database for the RESTfull API in the file `app.py`.
 
 ## Table of contents
@@ -34,4 +34,4 @@ Distributed under the MIT License.
 
 [Mingli Yang](https://www.linkedin.com/in/myang46)
 
-Project Link: [https://github.com/charlieyyy/-wiki_hollywood_crawler](https://github.com/charlieyyy/-wiki_hollywood_crawler)
+Project Link: [https://github.com/charlieyyy/wiki-hollywood-crawler](https://github.com/charlieyyy/wiki-hollywood-crawler)
