@@ -1,16 +1,13 @@
-# Project Name
-> wiki_hollywood_crawler
+# wiki_hollywood_crawler
+> This project uses python [scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html) framework to crawl data of hollywood actors and their movies. The scraped data then were converted in predefined graph structure, which is the database for the RESTfull API in the file `app.py`.
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Testing](#testing)
 * [License](#license)
 * [Contact](#contact)
 
-## General info
-This project uses python [scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html) framework to crawl data of hollywood actors and their movies. The scraped data then were converted in predefined graph structure, which is the database for the RESTfull API in the file `app.py`.
 
 ## Technologies
 * flask == 1.0.2
